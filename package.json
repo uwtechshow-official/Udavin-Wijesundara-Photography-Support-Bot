@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "jimp": "^0.16.13",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "name": "udavin-wijesundara-photography-bot",
+  "version": "1.0.0",
+  "description": "This is a WhatsApp Bot Developed By Udavin Wijesundara For Udavin Wijesundara Photography.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uwtechshow-official/Udavin-Wijesundara-Photography-Support-Bot.git"
+  },
+  "keywords": [
+    "bailyes",
+    "bot",
+    "supportBot",
+    "WhatsApp",
+    "WhatsappBot"
+  ],
+  "author": "Udavin Wijesundara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uwtechshow-official/Udavin-Wijesundara-Photography-Support-Bot/issues"
+  },
+  "homepage": "https://github.com/uwtechshow-official/Udavin-Wijesundara-Photography-Support-Bot#readme"
+}
